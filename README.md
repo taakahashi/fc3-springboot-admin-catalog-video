@@ -1,6 +1,6 @@
 # Projeto prático - Java ( Back-end )
 
-# Configuração do Ambiente
+## Configuração do Ambiente
 
 1. Configurar [WSL](https://github.com/codeedu/wsl2-docker-quickstart)
 2. Configurar [SDKMan](https://sdkman.io/install)
